@@ -1,4 +1,4 @@
-# 💰 ERC20 & Vault Contracts README
+# 💰 ERC20 & Vault Contracts 
 
 Welcome to the **ERC20 & Vault Smart Contracts** repository! This documentation will guide you through understanding and using these contracts. Let's dive right in.
 
